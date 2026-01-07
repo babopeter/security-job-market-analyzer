@@ -79,6 +79,10 @@ To run the unit tests:
 python3 -m unittest discover tests
 ```
 
+## TODO / Future Enhancements
+- [ ] **Web Scraper:** Implement a scraper to automatically collect job postings from public boards and feed them into the analyzer.
+- [ ] **Advanced NLP:** Integrate spaCy for better entity recognition and context-aware extraction.
+
 ## License
 
 [MIT License](LICENSE)

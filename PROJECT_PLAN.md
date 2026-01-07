@@ -39,3 +39,4 @@
 - [x] **Phase 2: Extraction Logic** - Implement regex/NLP logic to find skills and tools.
 - [x] **Phase 3: Aggregation** - specific logic to count and rank extracted terms.
 - [x] **Phase 4: CLI & Reporting** - Build the user interface to run the analysis and view results.
+- [ ] **Phase 5: Scraping & Automation** - Implement a scraper to fetch live public job postings.
