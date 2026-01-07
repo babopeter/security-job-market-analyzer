@@ -1,0 +1,3 @@
+Title: SOC Analyst
+Location: New York, NY
+Description: Join our SOC team. You will be responsible for monitoring security alerts using Splunk. Proficiency in Linux and understanding of TCP/IP is required. Experience with Wireshark is beneficial.

@@ -35,7 +35,7 @@
 - **Interface:** CLI (Command Line Interface) for initial prototype.
 
 ## 5. Roadmap
-- [ ] **Phase 1: Setup & Ingestion** - Initialize project, create basic script to read dummy job descriptions.
+- [x] **Phase 1: Setup & Ingestion** - Initialize project, create basic script to read dummy job descriptions.
 - [ ] **Phase 2: Extraction Logic** - Implement regex/NLP logic to find skills and tools.
 - [ ] **Phase 3: Aggregation** - specific logic to count and rank extracted terms.
 - [ ] **Phase 4: CLI & Reporting** - Build the user interface to run the analysis and view results.

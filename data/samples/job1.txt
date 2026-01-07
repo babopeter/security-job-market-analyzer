@@ -1,0 +1,3 @@
+Title: Security Engineer
+Location: Remote
+Description: We are looking for a Security Engineer with experience in AWS, Kubernetes, and Python. Knowledge of NIST framework is a plus. Experience with Splunk or ELK stack for monitoring is preferred.
